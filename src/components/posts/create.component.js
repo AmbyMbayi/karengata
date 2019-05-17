@@ -1,11 +1,10 @@
 import React, { Component } from 'react';
 
-export default class About extends Component{
+export default class Create extends Component{
     render(){
         return(
             <div>
-                <p>about page</p>
-   
+                <p>Create post</p>
             </div>
         )
     }

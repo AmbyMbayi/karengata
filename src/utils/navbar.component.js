@@ -11,13 +11,13 @@ export default class Navbar extends Component{
               <div className="row">
                 <div className="col-6 top-head-left">
                   <ul>
-                   <li>twitter</li>
+                   <li>t</li>
                   </ul>
                 </div>
                 <div className="col-6 top-head-right">
                   <ul>
                     <li className="nav-link">+2547 16402525</li>
-                    <li className="nav-link">+2547 16402525</li>
+                    
                   </ul>
                 </div>
               </div>
