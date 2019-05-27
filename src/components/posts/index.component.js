@@ -10,7 +10,7 @@ export default class Index extends Component{
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-8  text-left">
-                            <img class="card-img-top" src={Image1} />
+                            <img class="card-img-top" src={Image1} alt="" />
                             <h3>What is Lorem Ipsum?</h3>
                             <small>posted by Unknown | featured, great, men, women,</small><br/>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -27,13 +27,13 @@ export default class Index extends Component{
                         <div className="col-sm-4">
                             <div>
                                 <h3>Latest posts</h3>
-                                <img class="card-img-top" src={Image2} />
-                                <a href="">What is Lorem Ipsum?</a>
+                                <img class="card-img-top" src={Image2} alt="" />
+                                <a href="#">What is Lorem Ipsum?</a>
                             </div>
                         
                       </div>
                         <div className="col-sm-8 text-left">
-                            <img class="card-img-top" src={Image1} />
+                            <img class="card-img-top" src={Image1} alt="" />
                             <h3>What is Lorem Ipsum?</h3>
                             <small>posted by Unknown | featured, great, men, women,</small><br/>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
@@ -48,7 +48,7 @@ export default class Index extends Component{
                                 
                         </div>
                         <div className="col-sm-8 text-left">
-                            <img class="card-img-top" src={Image1} />
+                            <img class="card-img-top" src={Image1}  alt=""/>
                             <h3>What is Lorem Ipsum?</h3>
                             <small>posted by Unknown | featured, great, men, women,</small><br/>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. 

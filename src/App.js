@@ -19,7 +19,7 @@ class App extends Component{
     return(
       <Router>
         <div className="App">
-          <Navbar/>
+          <Navbar />
             
             <Switch>
             <Route exact path = '/' component={ Home }/>
